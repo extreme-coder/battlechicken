@@ -7,7 +7,10 @@ path="res://.import/bluesky.en.png-9be25bcd2adafa5d08f343d7d674a477.stex"
 [deps]
 
 source_file="res://Assets/Images/bluesky.en.png"
+source_md5="68facb96ba4068c98fd1c9a3879048ee"
+
 dest_files=[ "res://.import/bluesky.en.png-9be25bcd2adafa5d08f343d7d674a477.stex" ]
+dest_md5="8c8bf26dcf0833622139ec961149eb8d"
 
 [params]
 
