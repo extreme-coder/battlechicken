@@ -11,10 +11,10 @@ func _ready():
 
 func _process(delta):
 	get_node("Label").set_text(str(CluckBucks))# Called every frame. Delta is time since last frame.
-#	# Update game logic here.
+	CluckBucks += 1
 	pass
 
 
 func _on_Button_pressed():
-	CluckBucks += 1
+	
 	pass # replace with function body
