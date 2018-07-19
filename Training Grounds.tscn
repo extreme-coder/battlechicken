@@ -2,7 +2,7 @@
 
 [ext_resource path="res://grass.jpg" type="Texture" id=1]
 
-[node name="Sprite" type="Sprite" index="0"]
+[node name="Sprite" type="Sprite"]
 
 position = Vector2( 375.63, 251.085 )
 scale = Vector2( 2.71959, 3.83175 )
